@@ -29,6 +29,6 @@ Sandbox的应用范围非常广泛。比如一个提供 hosting 服务的共享�
 
 Google Chrome 实现了一个相对完整的 Sandbox：
 
-![Google Sandbox](img/Sandbox-1.png)
+![Google Sandbox](../img/Sandbox-1.png)
 
 浏览器安全是一个整体，在现今的浏览器中，虽然有很多进程架构和 Sandbox的保护，但是浏览器所加载的一些第三方插件却往往不受 Sandbox 管辖。近年来的浏览器漏洞往往都是由于加载的第三方插件出现安全漏洞导致的。
